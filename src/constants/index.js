@@ -1,4 +1,4 @@
-import {
+ import {
   asas,
   ball,
   benefitIcon1,
@@ -267,7 +267,7 @@ export const benefits = [
   },
   {
     id: "2",
-    title: "proteção",
+    title: "Em breve: proteção",
     text: "A música Proteção é uma poderosa expressão de emoção e superação, inspirada no término de um relacionamento. Embora pareça o desfecho trágico de uma acdente de transito, a canção é baseada em uma historia real",
     backgroundUrl: "./src/assets/benefits/card-3.svg",
     iconUrl: homeSmile,
